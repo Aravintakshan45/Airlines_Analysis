@@ -32,6 +32,5 @@ The dataset is provided in this repository in compressed .csv.gz format to reduc
 A detailed project report is included in the `reports` folder of the repository, covering the methodology, analysis process, and findings.
 
 The interactive Power BI dashboard is available in the `visualization` folder for dynamic exploration of airline and airport performance.
-## Acknowledgements
 
 
