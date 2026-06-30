@@ -34,4 +34,4 @@ A detailed project report is included in the `reports` folder of the repository,
 The interactive Power BI dashboard is available in the `visualization` folder for dynamic exploration of airline and airport performance.
 ## Acknowledgements
 
-This project was completed as part of the Infosys Springboard Virtual Internship 6.0 – 2025.
+
